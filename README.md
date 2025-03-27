@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo analizar los datos de empleados de ABC Corpora
 ABC Corporation, fundada en 1980 en California, es una consultora tecnológica especializada en ofrecer soluciones de inteligencia artificial (IA) y aprendizaje automático (machine learning) a empresas de diversos sectores. Su misión es automatizar y optimizar procesos empresariales mediante tecnologías avanzadas. Su equipo multidisciplinario abarca expertos en UX/UI, marketing, análisis de datos y machine learning, permitiéndoles desarrollar soluciones personalizadas para sus clientes. Nuestro análisis contribuirá a mejorar este tipo de soluciones, optimizando la retención y satisfacción de empleados dentro de la empresa.
 
 ## 🗂️ Fases del Proyecto
-### Fase 1: Análisis Exploratorio de Datos (EDA)🔬🤓
+### Fase 1: Análisis Exploratorio de Datos (EDA) 🧹🔬
 
 •	Cargar y revisar el Dataset.
 
