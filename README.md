@@ -2,7 +2,7 @@
 
 En este repositorio se puede ver el desarrollo del proyecto final del módulo 3 del Bootcamp Data Analytics de Adalab.
 
-## EQUIPO: 👩‍👩‍👧
+## 🙏🏼 EQUIPO:
 - Jessica Moreaux Cueto - **@jessicamxc**
 - Herminia Morales Sánchez - **@Herminia-m-s**
 - Elena Peña Castillo - **@elenapct**
@@ -70,7 +70,7 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 # 📈 Talent Optimization Project – Module 3
 In this repository, you can see the development of the final project for Module 3 of the Adalab Data Analytics Bootcamp.
 
-## TEAM: 👩‍👩‍👧
+## 🙏🏼 TEAM: 
 - Jessica Moreaux Cueto - @jessicamxc
 - Herminia Morales Sánchez - @Herminia-m-s
 - Elena Peña Castillo - @elenapct
