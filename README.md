@@ -19,29 +19,41 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 ### Fase 1: Análisis Exploratorio de Datos (EDA)🔬🤓
 
 •	Cargar y revisar el Dataset.
+
 •	Limpieza y transformación de los datos.
+
 •	Identificar y gestionar valores nulos, duplicados y outliers.
+
 •	Transformaciones: cambio de tipos de datos, normalización de columnas y corregir inconsistencias.
+
 •	Verificar tipos de datos y convertirlos si es necesario.
 
 ### Fase 2: Transformación de los Datos 🔧🔨
 •	Diseño y creación de una base de datos que almacene la información limpia y estructurada. Creamos un Dataframe con los datos ordenados y transformados
+
 •	Preparar los datos para su inserción en la base de datos.
 
 ### Fase 3: Diseño de BBDD e Inserción de los Datos 🏗️🚧
 •	Definir la estructura óptima para almacenar los datos.
+
 •	Crear relaciones entre tablas si es necesario.
+
 •	Insertar los datos de manera eficiente
 
 ### Fase 4: Problema de A/B Testing 📈📉
-•	Determinar la relación entre algunas variables significativas en el análisis y la rotación de empleados 
+•	Determinar la relación entre algunas variables significativas en el análisis y la rotación de empleados. 
+
 •	Realizar un análisis estadístico para determinar diferencias significativas.
+
 •	Analizar los resultados y calcular la magnitud de la relación.
 
 ### Fase 5: Reporte de los Resultados 📊💻
 •	Identificar patrones clave y extraer insights.
+
 •	Visualización de los datos utilizando gráficos para identificar tendencias y áreas de mejora.
+
 •	Generación de un informe con conclusiones y recomendaciones basadas en estos resultados
+
 
 ## Tecnologías Utilizadas
 1.	🪱 Python: Para la limpieza, transformación de datos y análisis estadístico.
@@ -73,28 +85,39 @@ Our analysis will contribute to improving these types of solutions by optimizing
 
 ### Phase 1: Exploratory Data Analysis (EDA) 🔬🤓
 • Load and review the dataset.
+
 • Clean and transform the data.
+
 • Identify and handle null values, duplicates, and outliers.
+
 • Transformations: change data types, normalize columns, and correct inconsistencies.
+
 • Verify data types and convert them if necessary.
 
 ### Phase 2: Data Transformation 🔧🔨
 • Design and create a database to store clean, structured data. Create a DataFrame with organized and transformed data.
+
 • Prepare the data for insertion into the database.
 
 ### Phase 3: Database Design and Data Insertion 🏗️🚧
 • Define the optimal structure for storing the data.
+
 • Create relationships between tables if necessary.
+
 • Insert the data efficiently.
 
 ### Phase 4: A/B Testing Problem 📈📉
 • Determine the relationship between significant variables in the analysis and employee turnover.
+
 • Conduct statistical analysis to identify significant differences.
+
 • Analyze the results and calculate the strength of the relationship.
 
 ### Phase 5: Reporting Results 📊💻
 • Identify key patterns and extract insights.
+
 • Visualize the data using charts to highlight trends and areas for improvement.
+
 • Generate a report with conclusions and recommendations based on these findings.
 
 ## Technologies Used
