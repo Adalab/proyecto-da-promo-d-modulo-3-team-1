@@ -3,10 +3,10 @@
 En este repositorio se puede ver el desarrollo del proyecto final del módulo 3 del Bootcamp Data Analytics de Adalab.
 
 ## EQUIPO: 👩‍👩‍👧
-- Jessica Moreaux Cueto - @jessicamxc
-- Herminia Morales Sánchez - @Herminia-m-s
-- Elena Peña Castillo - @elenapct
-- Cristina Campos Fernández - @Cris-CF
+- Jessica Moreaux Cueto - **@jessicamxc**
+- Herminia Morales Sánchez - **@Herminia-m-s**
+- Elena Peña Castillo - **@elenapct**
+- Cristina Campos Fernández - **@Cris-CF**
 
 ## Descripción 📝
 Con el objetivo de reducir la rotación de empleados y mejorar la satisfacción en el trabajo, la empresa ABC Corporation nos ha contratado con el objetivo de identificar los factores que influyen en la satisfacción laboral y la retención de empleados.
@@ -28,12 +28,12 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 
 •	Verificar tipos de datos y convertirlos si es necesario.
 
-### Fase 2: Transformación de los Datos 🔧🔨
+### Fase 2: Transformación de los Datos 🪄🛠️
 •	Diseño y creación de una base de datos que almacene la información limpia y estructurada. Creamos un Dataframe con los datos ordenados y transformados
 
 •	Preparar los datos para su inserción en la base de datos.
 
-### Fase 3: Diseño de BBDD e Inserción de los Datos 🏗️🚧
+### Fase 3: Diseño de BBDD e Inserción de los Datos 🔗📥
 •	Definir la estructura óptima para almacenar los datos.
 
 •	Crear relaciones entre tablas si es necesario.
@@ -97,12 +97,12 @@ Our analysis will contribute to improving these types of solutions by optimizing
 
 • Verify data types and convert them if necessary.
 
-### Phase 2: Data Transformation 🔨🔧
+### Phase 2: Data Transformation 🪄🛠️
 • Design and create a database to store clean, structured data. Create a DataFrame with organized and transformed data.
 
 • Prepare the data for insertion into the database.
 
-### Phase 3: Database Design and Data Insertion 🏗️🚧
+### Phase 3: Database Design and Data Insertion 🔗📥
 • Define the optimal structure for storing the data.
 
 • Create relationships between tables if necessary.
