@@ -39,6 +39,7 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 •	Crear relaciones entre tablas si es necesario.
 
 •	Insertar los datos de manera eficiente
+
 ![Captura de pantalla 2025-03-27 a las 12 40 59](https://github.com/user-attachments/assets/cd8688f2-94c3-4873-ab1d-b279c49a0953)
 
 
@@ -107,6 +108,7 @@ Our analysis will contribute to improving these types of solutions by optimizing
 • Create relationships between tables if necessary.
 
 • Insert the data efficiently.
+
 ![Captura de pantalla 2025-03-27 a las 12 40 59](https://github.com/user-attachments/assets/0302660d-3c5a-4082-90c8-2746ace87b36)
 
 
