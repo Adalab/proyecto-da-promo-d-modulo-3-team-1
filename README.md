@@ -1,4 +1,4 @@
-# 📈 Proyecto de Optimización de Talento – Módulo 3
+# 📈 Proyecto Transformando Talento – Módulo 3
 
 En este repositorio se puede ver el desarrollo del proyecto final del módulo 3 del Bootcamp Data Analytics de Adalab.
 
@@ -39,8 +39,10 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 •	Crear relaciones entre tablas si es necesario.
 
 •	Insertar los datos de manera eficiente
+![Captura de pantalla 2025-03-27 a las 12 40 59](https://github.com/user-attachments/assets/cd8688f2-94c3-4873-ab1d-b279c49a0953)
 
-### Fase 4: Problema de A/B Testing 📈📉
+
+### Fase 4: Estadistica Inferencial 📉📈
 •	Determinar la relación entre algunas variables significativas en el análisis y la rotación de empleados. 
 
 •	Realizar un análisis estadístico para determinar diferencias significativas.
@@ -83,7 +85,7 @@ Our analysis will contribute to improving these types of solutions by optimizing
 
 ## 🗂️ Project Phases
 
-### Phase 1: Exploratory Data Analysis (EDA) 🔬🤓
+### Phase 1: Exploratory Data Analysis (EDA) 🧹🔬
 • Load and review the dataset.
 
 • Clean and transform the data.
@@ -94,7 +96,7 @@ Our analysis will contribute to improving these types of solutions by optimizing
 
 • Verify data types and convert them if necessary.
 
-### Phase 2: Data Transformation 🔧🔨
+### Phase 2: Data Transformation 🔨🔧
 • Design and create a database to store clean, structured data. Create a DataFrame with organized and transformed data.
 
 • Prepare the data for insertion into the database.
@@ -105,8 +107,10 @@ Our analysis will contribute to improving these types of solutions by optimizing
 • Create relationships between tables if necessary.
 
 • Insert the data efficiently.
+![Captura de pantalla 2025-03-27 a las 12 40 59](https://github.com/user-attachments/assets/0302660d-3c5a-4082-90c8-2746ace87b36)
 
-### Phase 4: A/B Testing Problem 📈📉
+
+### Phase 4: Inferential Statistics 📉📈
 • Determine the relationship between significant variables in the analysis and employee turnover.
 
 • Conduct statistical analysis to identify significant differences.
